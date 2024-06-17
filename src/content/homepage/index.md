@@ -1,6 +1,6 @@
 ---
 banner:
-  title: "DAMN COLEMAN"
+  title: "DAMN COLEMAN WOW"
   content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
   image: /images/banner-img.png
   button:
